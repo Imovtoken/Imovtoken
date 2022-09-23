@@ -12,6 +12,7 @@
 
 * [🪙 TOKENOMICS](o-token-e-sua-economia/tokenomics.md)
 * [🏯 TOKENOMICS - IMOV LTDA.](o-token-e-sua-economia/tokenomics-imov-ltda..md)
+* [🎯 TOKENOMICS - IMOV CLUB.](o-token-e-sua-economia/tokenomics-imov-club..md)
 * [💰 UTILIDADE DO TOKEN](o-token-e-sua-economia/utilidade-do-token.md)
 
 ## 🤑 RELATÓRIOS E INJEÇÕES.

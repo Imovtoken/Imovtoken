@@ -27,4 +27,4 @@ As taxas que compõe o projeto são 12% para a compra e 12% para a venda; e são
 
 5% - CARTEIRA DO PROJETO\
 \
-![](../.gitbook/assets/image.png)                              <img src="../.gitbook/assets/image (20).png" alt="" data-size="original">
+![](<../.gitbook/assets/image (1).png>)                              <img src="../.gitbook/assets/image (20).png" alt="" data-size="original">

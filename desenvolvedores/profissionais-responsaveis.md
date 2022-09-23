@@ -18,7 +18,7 @@ _**Ele irá se dedicar a buscar os melhores investimentos e negociações possí
 
 {% embed url="https://www.instagram.com/fernandofalkembach/" %}
 
-_****_<img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> _**COO – Chief Operation Officer**_
+_****_<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> _**COO – Chief Operation Officer**_
 
 _**Dr. Jorge Luiz dos Santos (CRM-PR 6674)**_
 
