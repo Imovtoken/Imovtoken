@@ -6,7 +6,7 @@
 
 * [🟢 Modelo de Negócio](a-empresa-imov-ltda./modelo-de-negocio/README.md)
   * [ONDE INVESTIR](a-empresa-imov-ltda./modelo-de-negocio/onde-investir.md)
-  * [PACTUAN - A PARCEIRA.](a-empresa-imov-ltda./modelo-de-negocio/pactuan-a-parceira..md)
+  * [PACTUAN - A PARCEIRA](a-empresa-imov-ltda./modelo-de-negocio/pactuan-a-parceira.md)
 
 ## 💎 O TOKEN E A ECOMIA GERAL
 
@@ -22,7 +22,7 @@
 
 ## ⚖ CRYPTO E FÍSICO
 
-* [💹 FLUXO DE VALORIZAÇÃO INFINITA.](crypto-e-fisico/fluxo-de-valorizacao-infinita..md)
+* [💹 FLUXO DE VALORIZAÇÃO INFINITA](crypto-e-fisico/fluxo-de-valorizacao-infinita.md)
 
 ## 🎯 ROADMAP
 

@@ -8,13 +8,17 @@ coverY: 135.33039647577095
 
 Criado na rede da Binance Smart Chain (BSC) o token da $IMOV possui um Supply de 01 BILHÃO sendo destes 60% queimados inicialmente no lançamento com Supply circulante de 400 MILHÕES.&#x20;
 
-**100% - TOTAL SUPPLY**
+****
 
-&#x20;    🔥 60% QUEIMADOS INICIAL (BURNED)
+**100% - TOTAL SUPPLY - 1.000.000.000 (UM BILHÃO DE TOKENS)**
+
+&#x20;    🔥 60% QUEIMADOS INICIAL (BURNED) - TIRADOS DE CIRCULAÇÃO   [https://bscscan.com/token/0xb71488935ea2493a23e34bb893700edb809d1b2a?a=0x000000000000000000000000000000000000dead](https://bscscan.com/token/0xb71488935ea2493a23e34bb893700edb809d1b2a?a=0x000000000000000000000000000000000000dead)
 
 &#x20;    💰 10% CARTEIRA MARKETING (NÃO VENDE MOEDAS - UTILIZAÇÃO E QUEIMAS)
 
-&#x20;    ♻️ 30% SUPPLY CIRCULANTE (PANCAKE SWAP)
+[https://bscscan.com/token/0xb71488935ea2493a23e34bb893700edb809d1b2a?a=0xbead3cd3e42a90300c96c0fb86f364428a71351c](https://bscscan.com/token/0xb71488935ea2493a23e34bb893700edb809d1b2a?a=0xbead3cd3e42a90300c96c0fb86f364428a71351c)
+
+&#x20;    ♻️ 30% SUPPLY CIRCULANTE (PANCAKE SWAP) - LOCKED 01 ANO. [https://www.pinksale.finance/pinklock/record/1025114?chain=BSC](https://www.pinksale.finance/pinklock/record/1025114?chain=BSC)
 
 
 

@@ -20,7 +20,7 @@ O IMOVCLUB é um clube de investidores que através dos recursos captados de for
 
 ****
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Projeção de Rendimentos e divisão.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Projeção de Rendimentos e divisão.</p></figcaption></figure>
 
 A Parceira da IMOV a Intermediadora a PACTUAN vai injetar na liquidez do projeto
 
