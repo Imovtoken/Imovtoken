@@ -9,7 +9,15 @@ coverY: 0
 
 # 💰 UTILIDADE DO TOKEN
 
-O Token $IMOV BSC BEP-20 a partir das taxas de transação tem como utilidade **FINANCIAR, POTENCIALIZAR E ALAVANCAR** a operação de trading imobiliário da IMOV TOKEN. A captação deste recurso vai dar oportunidade a todos os HOLDERS de participar do crescimento e alavancagem tendo como recompensa injeção diretamente no gráfico de forma a tornar o token deflacionário, e o seu capital exponencial.\
+O Token $IMOV BSC BEP-20 a partir das taxas de transação tem como utilidade&#x20;
+
+&#x20;    💰 **FINANCIAR**&#x20;
+
+&#x20;    💵 **POTENCIALIZAR E**&#x20;
+
+&#x20;    📈 **ALAVANCAR**&#x20;
+
+Todas as operação de trading imobiliário da IMOV TOKEN. A captação deste recurso vai dar oportunidade a todos os HOLDERS de participar do crescimento e alavancagem tendo como recompensa injeção diretamente no gráfico de forma a tornar o token deflacionário, e o seu capital exponencial.\
 \
 
 
