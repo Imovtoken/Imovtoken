@@ -1,7 +1,6 @@
 ---
 cover: ../.gitbook/assets/como-entrar-mercado-financeiro-2.jpg
 coverY: 128.37004405286345
-layout: landing
 ---
 
 # 🤵♂ PROFISSIONAIS RESPONSÁVEIS

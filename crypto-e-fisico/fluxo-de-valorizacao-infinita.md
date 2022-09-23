@@ -1,7 +1,6 @@
 ---
 cover: ../.gitbook/assets/Bitcoin-1024x648.jpg
 coverY: 24.058737151248167
-layout: landing
 ---
 
 # 💹 FLUXO DE VALORIZAÇÃO INFINITA
@@ -14,11 +13,11 @@ A Relação do mercado descentralizado com o token segue o fluxo onde o token $I
 
 E temos uma projeção de um total injetado no TOKEN, que equivale ao retorno do lucro liquido de cada uma das operações individuais da IMOVTOKEN.
 
-&#x20;    🏛  30% - IMOV LTDA.
+&#x20;    🏛  30% - IMOV LTDA - INJEÇÃO E OU CRIAÇÃO DE POOL DE LIQUIDEZ&#x20;
 
-&#x20;    🎯 13% - IMOV CLUB.
+&#x20;    🎯 13% - IMOV CLUB - INJEÇÃO E OU CRIAÇÃO DE POOL DE LIQUIDEZ&#x20;
 
-&#x20;    💵 05% - PACTUAN.
+&#x20;    💵 05% - PACTUAN - INJEÇÃO E OU CRIAÇÃO DE POOL DE LIQUIDEZ&#x20;
 
 &#x20;
 

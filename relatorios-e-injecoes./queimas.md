@@ -6,7 +6,7 @@ coverY: -49.33920704845815
 
 # 🔥 QUEIMAS
 
-**A cada venda, trading ou transação tanto da IMOV LTDA. PACTUAN ou IMOVCLUB o projeto vai comprar do Supply Circulante e enviar para a carteira MORTA do projeto.**
+A cada venda, trading ou transação tanto da IMOV LTDA. PACTUAN ou IMOVCLUB o projeto vai comprar do Supply Circulante e enviar para a carteira MORTA do projeto.
 
 ✅🔥 IMOV LTDA - Do Lucro Liquido da empresa 30% será comprado e queimado diretamente no gráfico.
 

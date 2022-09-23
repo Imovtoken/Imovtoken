@@ -2,7 +2,6 @@
 cover: >-
   ../.gitbook/assets/depositphotos_472535196-stock-video-best-time-of-day-week.jpg
 coverY: -2.6784140969163204
-layout: landing
 ---
 
 # 🔮 PROJEÇÕES
@@ -11,15 +10,15 @@ A IMOV Token busca no mês do lançamento poder captar os recursos necessários 
 
 **✅ PLANEJAMENTO -** AGOSTO/22 - ATÉ DEZ/2022.\
 \
-**✅ Desenvolvimento site, whitepapper e redes sociais;**
+&#x20;    **✅ Desenvolvimento site, whitepapper e redes sociais;**
 
-**✅ Desenvolvimento do token IMOVTOKEN;**
+&#x20;     **✅ Desenvolvimento do token IMOVTOKEN;**
 
-**✅.  Listagem Pancakeswap;**
+&#x20;     **✅.  Listagem Pancakeswap;**
 
-**✅.  Início campanhas de marketing IMOV;**
+&#x20;     **✅.  Início campanhas de marketing IMOV;**
 
-**✅.  Primeiros trades imobiliário 5 apartamentos na planta ;**
+&#x20;     **✅.  Primeiros trades imobiliário 5 apartamentos na planta ;**
 
 **🕦.  Listagem CMC**
 
