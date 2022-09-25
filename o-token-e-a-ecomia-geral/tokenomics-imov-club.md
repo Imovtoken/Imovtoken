@@ -1,6 +1,6 @@
 ---
 description: >-
-  🟢 PLATAFORMAS DE VENDAS EXCLUSIVAS https://imovclub.com/ - "O Maior Clube de
+  🟢 PLATAFORMAS DE VENDAS EXCLUSIVAS https://imovclub.com/ - " O Maior Clube de
   investimentos DeFi - IMOVCLUB"
 cover: ../.gitbook/assets/shutterstock_206781292.jpg
 coverY: -52.72246696035242
