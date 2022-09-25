@@ -8,12 +8,12 @@
   * [ONDE INVESTIR](a-empresa-imov-ltda./modelo-de-negocio/onde-investir.md)
   * [PACTUAN - A PARCEIRA](a-empresa-imov-ltda./modelo-de-negocio/pactuan-a-parceira.md)
 
-## 💎 O TOKEN E A ECOMIA GERAL
+## 💎 O TOKEN E A ECONOMIA GERAL
 
-* [🪙 TOKENOMICS - IMOV TOKEN](o-token-e-a-ecomia-geral/tokenomics-imov-token.md)
-* [🏯 TOKENOMICS - IMOV LTDA](o-token-e-a-ecomia-geral/tokenomics-imov-ltda.md)
-* [🎯 TOKENOMICS - IMOV CLUB](o-token-e-a-ecomia-geral/tokenomics-imov-club.md)
-* [💰 UTILIDADE DO TOKEN](o-token-e-a-ecomia-geral/utilidade-do-token.md)
+* [🪙 TOKENOMICS - IMOV TOKEN](o-token-e-a-economia-geral/tokenomics-imov-token.md)
+* [🏯 TOKENOMICS - IMOV LTDA](o-token-e-a-economia-geral/tokenomics-imov-ltda.md)
+* [🎯 TOKENOMICS - IMOV CLUB](o-token-e-a-economia-geral/tokenomics-imov-club.md)
+* [💰 UTILIDADE DO TOKEN](o-token-e-a-economia-geral/utilidade-do-token.md)
 
 ## 🤑 RELATÓRIOS E INJEÇÕES.
 
