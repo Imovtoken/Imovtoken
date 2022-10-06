@@ -23,3 +23,5 @@ layout: landing
 **🔸 Reddit:** [**https://www.reddit.com/user/imovtoken**](https://www.reddit.com/user/imovtoken) ****&#x20;
 
 **🔸 YouTube:** [**https://www.youtube.com/channel/UCzrzExY4iJcA5rnjeLhcpBg**](https://www.youtube.com/channel/UCzrzExY4iJcA5rnjeLhcpBg)****
+
+**🔸 Discord:** [**https://discord.gg/6ndCASuBMd**](https://discord.gg/6ndCASuBMd)****
