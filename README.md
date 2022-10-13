@@ -1,6 +1,6 @@
 ---
 description: “O FUTURO DOS EMPREENDIMENTOS IMOBILIARIOS AGORA É UM CRYPTO ATIVO.”
-cover: .gitbook/assets/photo_2022-08-07_18-26-33.jpg
+cover: .gitbook/assets/photo_2022-08-07_18-26-33 (1).jpg
 coverY: 156.94566813509547
 ---
 
