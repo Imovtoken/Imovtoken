@@ -7,7 +7,7 @@ coverY: 128.37004405286345
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Desenvolvedores.</p></figcaption></figure>
 
-_****_<img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> _**CEO – Chief Executive officer**_
+_****_<img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> _**CEO – Chief Executive officer**_
 
 _**Fernando Falkembach**_
 
@@ -27,7 +27,7 @@ _**Com toda sua capacidade de network, gestão e estratégia Dr. Jorge dará sup
 
 {% embed url="https://www.instagram.com/dr_jorgesantos/" %}
 
-_****_<img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> _**CMO – Chief Marketing Officer**_
+_****_<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> _**CMO – Chief Marketing Officer**_
 
 _**Éder Gulhak**_
 

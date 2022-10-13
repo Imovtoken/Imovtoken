@@ -9,7 +9,7 @@ A Relação do mercado descentralizado com o token segue o fluxo onde o token $I
 \
 
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Ciclo de Valorização Infinita.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Ciclo de Valorização Infinita.</p></figcaption></figure>
 
 E temos uma projeção de um total injetado no TOKEN, que equivale ao retorno do lucro liquido de cada uma das operações individuais da IMOVTOKEN.
 
@@ -21,5 +21,5 @@ E temos uma projeção de um total injetado no TOKEN, que equivale ao retorno do
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Injeções no gráfico referente IMOV + CLUB + PACTUAN.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Injeções no gráfico referente IMOV + CLUB + PACTUAN.</p></figcaption></figure>
 

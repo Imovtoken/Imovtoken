@@ -24,7 +24,7 @@ A IMOV Token busca no mês do lançamento poder captar os recursos necessários 
 
 **🕦.  Listagem Coingecko**
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Expansão Infinita.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Expansão Infinita.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Etapas Iniciais do projeto.</p></figcaption></figure>
 
