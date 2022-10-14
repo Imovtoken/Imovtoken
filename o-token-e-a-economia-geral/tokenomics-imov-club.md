@@ -72,4 +72,12 @@ A Parceira da IMOV a Intermediadora a PACTUAN vai injetar na liquidez do projeto
 
 ****
 
+CONTRATO TOKEN - IMOVCLUB
+
+{% embed url="https://bscscan.com/address/0xAE943C802Cc2BF1D36256bf70f4C2957fa5c02c1" %}
+
+****
+
+****
+
 ****
