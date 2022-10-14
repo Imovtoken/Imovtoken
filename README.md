@@ -19,7 +19,7 @@ coverY: 156.94566813509547
 **CNPJ: xx.xxx.xxx/xxxx-xx**
 
 ****\
-**Endereço:** \
+**Endereço: Minas Gerais, 1932 sala (\*\*\*) - Centro, Cascavel Paraná.**\
 ****
 
 <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption><p>IMOVTOKEN</p></figcaption></figure>
