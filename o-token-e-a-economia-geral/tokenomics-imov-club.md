@@ -8,19 +8,27 @@ coverY: -52.72246696035242
 
 # 🎯 TOKENOMICS - IMOV CLUB
 
+## 🟢 **SOMENTE 1750 UNIDADES** 🟢
+
+RENDIMENTO DE 150% NO PRIMEIRO TRADE - OPORTUNIDADE UNICA.&#x20;
+
 ## 🤑COMPRAS DA [IMOVCLUB](https://imovclub.com/) LIBERADAS🤑
 
-🟢 PLATAFORMAS DE VENDA EXCLUSIVAS&#x20;
+🟢 PLATAFORMAS DE VENDA EXCLUSIVAS
 
-&#x20;    🤝 [BUSD](https://imovclub.com/cotas) - https://imovclub.com/&#x20;
+&#x20;    🤝 [BUSD](https://imovclub.com/cotas) - [https://imovclub.com/ ](https://imovclub.com/)
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Comprando pela plataforma da imovclub.com - Cai direto na sua wallet.</p></figcaption></figure>
 
 &#x20;    Ou&#x20;
 
-&#x20;    💸 [NO PIX](https://tokenbs.com/item/s/IMOVCLUB) - https://tokenbs.com/item/s/IMOVCLUB
+&#x20;    💸 [NO PIX](https://tokenbs.com/item/s/IMOVCLUB)&#x20;
+
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Comprar no PIX e enviar comprovante para @Edergurlhak no Telegram.</p></figcaption></figure>
 
 ✨ Invista agora no seu futuro: faça parte do melhor clube descentralizado de investimento em imóveis do Brasil. Já pensou em investir num Token que dividirá lucros com você de forma crescente e vitalícia?
 
-#### 💰 BÔNUS ATÉ DIA 24/10/2022 - ACUMULATIVO (BASTA TER A QUANTIDADE NA DATA)
+#### 💰 BÔNUS ATÉ DIA 30/11/2022 - ACUMULATIVO (BASTA TER A QUANTIDADE NA DATA)
 
 &#x20;     🟢NA COMPRA DE 5 GANHA 1
 
@@ -30,11 +38,17 @@ coverY: -52.72246696035242
 
 &#x20;     🟢NA COMPRA DE 100 GANHA 30
 
-### ⚠️❗️SOMENTE SE ATÉ A DATA DE 24/11/2022❗️⚠️
 
-✅ VENDER [7.000](https://imovclub.com/cotas) UNIDADES DE COTAS - 🔥 SERÃO QUEIMADAS AS RESTANTES AUMENTANDO A % POR COTA DE 0,004% PARA 📈 0,0052% POR COTA.
 
 ## 💎 PROJEÇÕES DE LUCRATIVIDADE
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Projeção de Lucro REAL com base no empreendimento já RESERVADO com venda para 2023 GARANTIDA.</p></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>2 apartamentos já reservados neste empreendimento original (foto) - ITAPEMA SC</p></figcaption></figure>
+
+Exemplo com banca futura e valor redondo.
 
 Vamos pegar como exemplo uma aplicação de uma banca de $1.000.000,00.&#x20;
 

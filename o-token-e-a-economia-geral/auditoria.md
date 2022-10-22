@@ -34,7 +34,7 @@ RESUMO, RESULTADO E JUSTIFICATIVA - [AUDITORIA 1 - COINSULT](https://coinsult.ne
 
 Analise e Justificativa dos pontos levantados na auditoria - [Análise realizada dia 13 Oct,2022](https://docs.google.com/presentation/d/1VJj4v3XxCxrDHOZckadOzw-TaKw4xg-sDUft4W0LYZg/edit?usp=sharing); pelo Chief Blockchain Officer (CBO) IMOV - nsdBR®
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Análise e Justificativa by nsdBR (CBO - IMOV)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Análise e Justificativa by nsdBR (CBO - IMOV)</p></figcaption></figure>
 
 LINK APRESENTAÇÃO - [https://docs.google.com/presentation/d/1VJj4v3XxCxrDHOZckadOzw-TaKw4xg-sDUft4W0LYZg/edit?usp=sharing](https://docs.google.com/presentation/d/1VJj4v3XxCxrDHOZckadOzw-TaKw4xg-sDUft4W0LYZg/edit?usp=sharing)
 
