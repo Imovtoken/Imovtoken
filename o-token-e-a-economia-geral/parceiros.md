@@ -17,13 +17,19 @@ Os parceiros de operação, DEX-Swap da moeda são:
 
 <img src="../.gitbook/assets/image (9).png" alt="" data-size="line">🟢[POOCOIN](https://poocoin.app/tokens/0xb71488935ea2493a23e34bb893700edb809d1b2a)&#x20;
 
-<img src="../.gitbook/assets/image (1).png" alt="" data-size="line">🟢[PANCAKESWAP](https://pancakeswap.finance/swap?outputCurrency=0xb71488935eA2493a23E34bb893700eDB809d1B2A)
+<img src="../.gitbook/assets/image (1) (3).png" alt="" data-size="line">🟢[PANCAKESWAP](https://pancakeswap.finance/swap?outputCurrency=0xb71488935eA2493a23E34bb893700eDB809d1B2A)
 
 <img src="../.gitbook/assets/image (15) (2).png" alt="" data-size="line">🟢[DEXTOOLS](https://www.dextools.io/app/en/bnb/pair-explorer/0x01749640c23d353f62a06c42bf8dbde86a6db711)
 
 <img src="../.gitbook/assets/image (15).png" alt="" data-size="line">🟡COINGECKO
 
 <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line">🟡 COINMARKETCAP
+
+
+
+Nossos amigos e parceiros, apoiadores do projeto desde o inicio e que contribuem para o cenário crypto nacional possibilitando e facilitando as compras de tokens [através do pix](https://comprecriptonopix.com.br/), plataforma parceira do ecossistema da Xmine®
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://comprecriptonopix.com.br/">https://comprecriptonopix.com.br/</a></p></figcaption></figure>
 
 
 
