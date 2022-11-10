@@ -21,5 +21,5 @@ E temos uma projeção de um total injetado no TOKEN, que equivale ao retorno do
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Injeções no gráfico referente IMOV + CLUB + PACTUAN.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>Injeções no gráfico referente IMOV + CLUB + PACTUAN.</p></figcaption></figure>
 

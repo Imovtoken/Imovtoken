@@ -27,7 +27,7 @@ _**Com toda sua capacidade de network, gestão e estratégia Dr. Jorge dará sup
 
 {% embed url="https://www.instagram.com/dr_jorgesantos/" %}
 
-_****_<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> _**CMO – Chief Marketing Officer**_
+_****_<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> _**CMO – Chief Marketing Officer**_
 
 _**Éder Gulhak**_
 
