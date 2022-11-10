@@ -15,5 +15,5 @@ A IMOV através da PACTUAN vai direcionar esforços e recursos seguindo os crit�
 \
 E Isso não é uma limitação de operação mas um Norte a ser seguido e um parâmetro adotado pelo CEO.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Investimentos Únicos.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Investimentos Únicos.</p></figcaption></figure>
 

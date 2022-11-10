@@ -15,7 +15,7 @@ A empresa IMOV LTDA através dos recursos captados de forma descentralizada vai 
 
 &#x20;    👨🏽‍💻 **10% - Desenvolvedores.**
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Participação da Empresa.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Participação da Empresa.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Exemplo de divisão com base em $100.000 dólares.</p></figcaption></figure>
 

@@ -6,7 +6,7 @@ layout: landing
 
 # 📌 REDES SOCIAIS
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ****<img src="../.gitbook/assets/WhatsApp Image 2022-08-22 at 13.36.30.jpeg" alt="" data-size="original">                          ****                          ![](<../.gitbook/assets/WhatsApp Image 2022-08-22 at 13.36.30 (1).jpeg>)****
 

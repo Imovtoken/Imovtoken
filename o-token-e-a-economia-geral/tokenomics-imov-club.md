@@ -18,13 +18,13 @@ RENDIMENTO DE 150% NO PRIMEIRO TRADE - OPORTUNIDADE UNICA.&#x20;
 
 &#x20;    🤝 [BUSD](https://imovclub.com/cotas) - [https://imovclub.com/ ](https://imovclub.com/)
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Comprando pela plataforma da imovclub.com - Cai direto na sua wallet.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Comprando pela plataforma da imovclub.com - Cai direto na sua wallet.</p></figcaption></figure>
 
 &#x20;    Ou&#x20;
 
 &#x20;    💸 [NO PIX](https://tokenbs.com/item/s/IMOVCLUB)&#x20;
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Comprar no PIX e enviar comprovante para @Edergurlhak no Telegram.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>Comprar no PIX e enviar comprovante para @Edergurlhak no Telegram.</p></figcaption></figure>
 
 ✨ Invista agora no seu futuro: faça parte do melhor clube descentralizado de investimento em imóveis do Brasil. Já pensou em investir num Token que dividirá lucros com você de forma crescente e vitalícia?
 
@@ -42,7 +42,7 @@ RENDIMENTO DE 150% NO PRIMEIRO TRADE - OPORTUNIDADE UNICA.&#x20;
 
 ## 💎 PROJEÇÕES DE LUCRATIVIDADE
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Projeção de Lucro REAL com base no empreendimento já RESERVADO com venda para 2023 GARANTIDA.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Projeção de Lucro REAL com base no empreendimento já RESERVADO com venda para 2023 GARANTIDA.</p></figcaption></figure>
 
 
 

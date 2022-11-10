@@ -21,4 +21,4 @@ Todas as operação de trading imobiliário da IMOV TOKEN. A captação deste re
 \
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Fluxo Descentralizado, para o Centralizado.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Fluxo Descentralizado, para o Centralizado.</p></figcaption></figure>

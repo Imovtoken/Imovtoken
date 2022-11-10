@@ -24,7 +24,7 @@ __
 _<mark style="color:yellow;">A Coinsult não se responsabiliza por quaisquer perdas financeiras. Nada nesta auditoria de contrato é aconselhamento financeiro, por favor, faça sua própria pesquisa. As informações fornecidas nesta auditoria são apenas para fins informativos e não devem ser consideradas conselhos de investimento.</mark>_ \
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Certificado de Auditoria COINSULT oct,2022.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Certificado de Auditoria COINSULT oct,2022.</p></figcaption></figure>
 
 
 

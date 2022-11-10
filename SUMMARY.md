@@ -15,6 +15,7 @@
 * [🎯 TOKENOMICS - IMOV CLUB](o-token-e-a-economia-geral/tokenomics-imov-club.md)
 * [💰 UTILIDADE DO TOKEN](o-token-e-a-economia-geral/utilidade-do-token.md)
 * [📜 AUDITORIA](o-token-e-a-economia-geral/auditoria.md)
+* [🤝 PARCEIROS](o-token-e-a-economia-geral/parceiros.md)
 
 ## 🤑 RELATÓRIOS E INJEÇÕES.
 

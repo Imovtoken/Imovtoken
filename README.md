@@ -22,4 +22,4 @@ coverY: 156.94566813509547
 **Endereço: Minas Gerais, 1932 sala (\*\*\*) - Centro, Cascavel Paraná.**\
 ****
 
-<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption><p>IMOVTOKEN</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>IMOVTOKEN</p></figcaption></figure>
