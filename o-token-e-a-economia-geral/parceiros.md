@@ -45,6 +45,6 @@ Para garantir a segurança das nossas operações, temos a parceria com a Audito
 
 A parte de desenvolvimento, suporte e expansão dos planos relacionados a blockchain e desenvolvimento web3 estão diretamente ligados a parceira de desenvolvimento a _**NSD Blockchain Consulting**_ empresa do CBO nsdBR para gestão, expansão e tokenização de empresas.&#x20;
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>nsdBR®</p></figcaption></figure>
 
 Deseja se tornar parceiro ou integrar seu produto ou empresa a um de nossos modelos de negócio? na aba sociais você encontra os contatos para entrar em contato conosco.
