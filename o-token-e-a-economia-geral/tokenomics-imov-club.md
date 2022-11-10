@@ -42,7 +42,7 @@ RENDIMENTO DE 150% NO PRIMEIRO TRADE - OPORTUNIDADE UNICA.&#x20;
 
 ## 💎 PROJEÇÕES DE LUCRATIVIDADE
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Projeção de Lucro REAL com base no empreendimento já RESERVADO com venda para 2023 GARANTIDA.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (2).png" alt=""><figcaption><p>Projeção de Lucro REAL com base no empreendimento já RESERVADO com venda para 2023 GARANTIDA.</p></figcaption></figure>
 
 
 
