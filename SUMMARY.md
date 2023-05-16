@@ -5,7 +5,6 @@
 ## ✨ A EMPRESA - IMOV LTDA.
 
 * [🟢 Modelo de Negócio](a-empresa-imov-ltda./modelo-de-negocio/README.md)
-  * [ONDE INVESTIR](a-empresa-imov-ltda./modelo-de-negocio/onde-investir.md)
   * [PACTUAN - A PARCEIRA](a-empresa-imov-ltda./modelo-de-negocio/pactuan-a-parceira.md)
 
 ## 💎 O TOKEN E A ECONOMIA GERAL
