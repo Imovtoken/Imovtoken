@@ -4,8 +4,8 @@
 
 ## ✨ A EMPRESA - IMOV LTDA.
 
-* [🟢 Modelo de Negócio](a-empresa-imov-ltda./modelo-de-negocio/README.md)
-  * [PACTUAN - A PARCEIRA](a-empresa-imov-ltda./modelo-de-negocio/pactuan-a-parceira.md)
+* [🟢 O MODELO DE NEGÓCIO](a-empresa-imov-ltda./o-modelo-de-negocio.md)
+* [🤝 PACTUAN INVESTIMENTOS](a-empresa-imov-ltda./pactuan-investimentos.md)
 
 ## 💎 O TOKEN E A ECONOMIA GERAL
 
