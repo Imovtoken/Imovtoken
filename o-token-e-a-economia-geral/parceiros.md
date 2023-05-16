@@ -29,9 +29,7 @@ Os parceiros de operação, DEX-Swap da moeda são:
 
 Nossos amigos e parceiros, apoiadores do projeto desde o inicio e que contribuem para o cenário crypto nacional possibilitando e facilitando as compras de tokens [através do pix](https://comprecriptonopix.com.br/), plataforma parceira do ecossistema da Xmine®
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://comprecriptonopix.com.br/">https://comprecriptonopix.com.br/</a></p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p><a href="https://comprecriptonopix.com.br/">https://comprecriptonopix.com.br/</a></p></figcaption></figure>
 
 As parcerias de buscadores e sites localizadores do nosso projeto se multiplicam com o apoio da comunidade.
 
@@ -41,7 +39,7 @@ As parcerias de buscadores e sites localizadores do nosso projeto se multiplicam
 
 A plataforma da startup Tokenbusiness também é uma grande parceira nesta empreitada, assim como a Leve Investimentos, ambas aplicativos e soluções para compra e venda nacionais.&#x20;
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p><a href="https://tokenbs.com/item/s/IMOV">https://tokenbs.com/item/s/IMOV</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p><a href="https://tokenbs.com/item/s/IMOV">https://tokenbs.com/item/s/IMOV</a></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><a href="https://www.leve.app.br/">https://www.leve.app.br/</a></p></figcaption></figure>
 

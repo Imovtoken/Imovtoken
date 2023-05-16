@@ -7,7 +7,7 @@ cover: >-
 coverY: 0
 ---
 
-# 🟢 Modelo de Negócio
+# 🟢 O MODELO DE NEGÓCIO
 
 
 
@@ -24,4 +24,4 @@ Não perca a chance de se envolver em um empreendimento inovador que combina a e
 Junte-se à IMOV Token hoje e abra as portas para um futuro promissor no mercado imobiliário e cripto.\
 
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Modelo de negócio - Exponencial e "Ad Infinitum"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Modelo de negócio - Exponencial e "Ad Infinitum"</p></figcaption></figure>

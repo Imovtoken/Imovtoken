@@ -5,7 +5,7 @@ coverY: 128.37004405286345
 
 # 🤵♂ PROFISSIONAIS RESPONSÁVEIS
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> _**CEO – Chief Executive officer**_
 
