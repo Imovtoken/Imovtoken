@@ -1,48 +1,33 @@
 ---
-description: >-
-  🟢 PLATAFORMAS DE VENDAS EXCLUSIVAS https://imovclub.com/ - " O Maior Clube de
-  investimentos DeFi - IMOVCLUB"
 cover: ../.gitbook/assets/shutterstock_206781292.jpg
 coverY: -52.72246696035242
 ---
 
 # 🎯 TOKENOMICS - IMOV CLUB
 
-## 🟢 **SOMENTE 1750 UNIDADES** 🟢
+O IMOVCLUB é mais do que um simples clube de investidores. É uma oportunidade única e vitalícia para se tornar parte integrante do sucesso e crescimento contínuo da IMOV Token. Ao se juntar ao IMOVCLUB, você se torna um membro exclusivo de um grupo seleto de investidores que compartilham a visão de transformar o mercado imobiliário por meio da tecnologia blockchain.
 
-RENDIMENTO DE 150% NO PRIMEIRO TRADE - OPORTUNIDADE UNICA.&#x20;
+Ao investir em cotas no IMOVCLUB, você não está apenas adquirindo uma participação em um clube de investimento altamente lucrativo, mas também está recompensando diretamente o gráfico do IMOV Token. Enquanto outros investidores contribuem com apenas 5 dólares, você coloca 100% do seu capital no modelo de negócios, potencializando o crescimento e maximizando os retornos.
 
-## 🤑COMPRAS DA [IMOVCLUB](https://imovclub.com/) LIBERADAS🤑
+Nossa estrutura de divisão de recursos é cuidadosamente projetada para garantir o sucesso e a expansão contínua do IMOVCLUB. Dos recursos captados de forma descentralizada, 40% são destinados às cotas, permitindo que você participe ativamente dos investimentos imobiliários e compartilhe dos lucros gerados. Outros 30% são direcionados para a expansão do próprio clube, garantindo um ambiente cada vez mais robusto e repleto de oportunidades.
 
-🟢 PLATAFORMAS DE VENDA EXCLUSIVAS
+Além disso, 13% dos recursos são injetados diretamente no gráfico do IMOV Token, através de compra e queima de tokens, fortalecendo ainda mais a liquidez e a valorização do token. Essa estratégia contribui não apenas para o sucesso do IMOVCLUB, mas também para o crescimento do IMOV Token como um todo.
 
-&#x20;    🤝 [BUSD](https://imovclub.com/cotas) - [https://imovclub.com/ ](https://imovclub.com/)
+Os desenvolvedores, responsáveis por tornar toda essa visão em realidade, recebem uma parcela justa de 15% dos recursos. Sua experiência e expertise são essenciais para garantir a qualidade e a inovação contínuas do IMOVCLUB e da IMOV Token.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Comprando pela plataforma da imovclub.com - Cai direto na sua wallet.</p></figcaption></figure>
+E, por fim, uma pequena taxa de administração de 2% é aplicada para garantir a operação eficiente e o crescimento sustentável do IMOVCLUB, assegurando que todas as oportunidades sejam aproveitadas ao máximo.
 
-&#x20;    Ou&#x20;
+Ao se tornar um membro do IMOVCLUB, você está garantindo um lugar em um ambiente de investimento altamente lucrativo e exclusivo. Sua participação é vitalícia, permitindo que você desfrute dos benefícios financeiros e da liberdade imobiliária por toda a vida.
 
-&#x20;    💸 [NO PIX](https://tokenbs.com/item/s/IMOVCLUB)&#x20;
+Não perca essa oportunidade única de se tornar um membro do IMOVCLUB. Junte-se a nós agora e faça parte de uma jornada emocionante rumo ao sucesso financeiro e à realização de seus sonhos no mercado imobiliário.
 
-<figure><img src="../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>Comprar no PIX e enviar comprovante para @Edergurlhak no Telegram.</p></figcaption></figure>
-
-✨ Invista agora no seu futuro: faça parte do melhor clube descentralizado de investimento em imóveis do Brasil. Já pensou em investir num Token que dividirá lucros com você de forma crescente e vitalícia?
-
-#### 💰 BÔNUS ATÉ DIA 30/11/2022 - ACUMULATIVO (BASTA TER A QUANTIDADE NA DATA)
-
-&#x20;     🟢NA COMPRA DE 5 GANHA 1
-
-&#x20;     🟢NA COMPRA DE 10 GANHA 3
-
-&#x20;     🟢NA COMPRA DE 50 GANHA 15
-
-&#x20;     🟢NA COMPRA DE 100 GANHA 30
+IMOVCLUB: O caminho para a prosperidade e a exclusividade no mercado imobiliário.
 
 
 
 ## 💎 PROJEÇÕES DE LUCRATIVIDADE
 
-<figure><img src="../.gitbook/assets/image (18) (2).png" alt=""><figcaption><p>Projeção de Lucro REAL com base no empreendimento já RESERVADO com venda para 2023 GARANTIDA.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (2).png" alt=""><figcaption><p>Projeção de Lucro REAL com base no empreendimento já RESERVADO com venda para 2023/24 GARANTIDA.</p></figcaption></figure>
 
 
 
