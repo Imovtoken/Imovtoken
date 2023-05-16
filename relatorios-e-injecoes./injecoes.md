@@ -11,7 +11,7 @@ A IMOV vai atuar diretamente na busca pela LIQUIDEZ injeções serão feitas atr
 
 A cada venda, trading ou transação tanto da IMOV LTDA. PACTUAN ou IMOVCLUB o projeto vai comprar do Supply Circulante e enviar para a carteira MORTA do projeto, além de criar uma LP par BNB/IMOV.
 
-****
+
 
 ✅ IMOV LTDA - Do Lucro Liquido da empresa 30% será comprado e queimado diretamente no gráfico. INJEÇÃO DE CAPITAL EXTERNO.
 

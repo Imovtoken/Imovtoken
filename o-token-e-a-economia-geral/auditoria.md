@@ -19,7 +19,7 @@ O objetivo da [auditoria](https://coinsult.net/projects/imov-token/) é para ver
 
 Este relatório pode ser usado como um guia para a equipe de desenvolvimento sobre como o contrato pode possivelmente ser melhorado corrigindo os problemas que foram identificados.
 
-__
+
 
 _<mark style="color:yellow;">A Coinsult não se responsabiliza por quaisquer perdas financeiras. Nada nesta auditoria de contrato é aconselhamento financeiro, por favor, faça sua própria pesquisa. As informações fornecidas nesta auditoria são apenas para fins informativos e não devem ser consideradas conselhos de investimento.</mark>_ \
 

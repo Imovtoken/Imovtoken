@@ -74,7 +74,7 @@ O [**IMOVCLUB**](https://imovclub.com/) é um clube de investidores que através
 
 &#x20;    📝**02% - Taxa de Administração.**
 
-****
+
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Projeção de Rendimentos e divisão.</p></figcaption></figure>
 
@@ -82,16 +82,15 @@ A Parceira da IMOV a Intermediadora a PACTUAN vai injetar na liquidez do projeto
 
 &#x20;    💵 **5% - do Lucro Liquido, de todas as operações COMPRA E VENDA dos ativos do CLUB.**
 
-****
 
-****
+
+
 
 CONTRATO TOKEN - IMOVCLUB
 
 {% embed url="https://bscscan.com/address/0xAE943C802Cc2BF1D36256bf70f4C2957fa5c02c1" %}
 
-****
 
-****
 
-****
+
+

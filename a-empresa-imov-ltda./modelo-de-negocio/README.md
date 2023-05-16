@@ -14,4 +14,4 @@ A IMOV Token busca formar uma banca investidora com o capital das taxas descentr
 \
 
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Modelo de negócio - Exponencial e "Ad Infinitum"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Modelo de negócio - Exponencial e "Ad Infinitum"</p></figcaption></figure>

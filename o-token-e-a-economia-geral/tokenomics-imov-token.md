@@ -8,7 +8,7 @@ coverY: 135.33039647577095
 
 Criado na rede da Binance Smart Chain (BSC) o token da $IMOV possui um Supply de 01 BILHÃO sendo destes 60% queimados inicialmente no lançamento com Supply circulante de 400 MILHÕES.&#x20;
 
-****
+
 
 **100% - TOTAL SUPPLY - 1.000.000.000 (UM BILHÃO DE TOKENS)**
 

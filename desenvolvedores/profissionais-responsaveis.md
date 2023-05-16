@@ -5,9 +5,9 @@ coverY: 128.37004405286345
 
 # 🤵♂ PROFISSIONAIS RESPONSÁVEIS
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Desenvolvedores.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-_****_<img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> _**CEO – Chief Executive officer**_
+<img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> _**CEO – Chief Executive officer**_
 
 _**Fernando Falkembach**_
 
@@ -17,17 +17,9 @@ _**Ele irá se dedicar a buscar os melhores investimentos e negociações possí
 
 {% embed url="https://www.instagram.com/fernandofalkembach/" %}
 
-_****_<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> _**COO – Chief Operation Officer**_
 
-_**Dr. Jorge Luiz dos Santos (CRM-PR 6674)**_
 
-&#x20;_**Dr. Jorge é pediatra com especialização em imunologia e alergia. Possui em seu currículo atividades como ter presidido o Instituto de Previdência dos Servidores do Município de Cascavel (IPMC), atuado como secretário municipal de Saúde de Cascavel, presidido por duas gestões a Associação de Micro e Pequenas Empresas (AMIC), à qual foi levada a um patamar de reconhecimento nacional, presidido a Associação Médica de Cascavel (AMC), fundado o Instituto Beneficente São João – Sicoob, onde é presidente.**_
-
-_**Com toda sua capacidade de network, gestão e estratégia Dr. Jorge dará suporte ao CEO potencializando todas as suas atividades e colaborando nas tomadas de decisão.**_
-
-{% embed url="https://www.instagram.com/dr_jorgesantos/" %}
-
-_****_<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> _**CMO – Chief Marketing Officer**_
+<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> _**CMO – Chief Marketing Officer**_
 
 _**Éder Gulhak**_
 
@@ -39,7 +31,7 @@ _**Éder Gulhak**_
 
 {% embed url="https://www.instagram.com/eder.gulhak/" %}
 
-_****_<img src="../.gitbook/assets/nsdBR - Perfil.jpg" alt="" data-size="line"> _**CBO – Chief Blockchain Officer**_
+<img src="../.gitbook/assets/nsdBR - Perfil.jpg" alt="" data-size="line"> _**CBO – Chief Blockchain Officer**_
 
 _**nsdBR**_
 
